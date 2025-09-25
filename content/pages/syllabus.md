@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, field trips, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,7 +43,7 @@ The most important prerequisite for this class is curiosity, a desire to think d
 Field Trips
 -----------
 
-There will be some "field trips" to other places on campus, such as the {{% resource_link "0302076d-d191-4f95-9df8-b0dece56615e" "Institute Archives" %}} and the {{% resource_link "1aeecfee-d92f-44c9-9cb6-e7e5eeaddcfe" "MIT Museum" %}} that are scheduled during class periods. In addition, I will call attention to various {{% resource_link "1243c5d1-b448-415c-b2ac-3aa17792b513" "Centennial Celebration" %}} events and arrange an occasional "field trip" or outing that I think will enhance your appreciation of MIT's history. These extracurricular trips are completely voluntary and will have absolutely no bearing on your grade.
+There will be some "field trips" to other places on campus, such as the [Institute Archives](https://libraries.mit.edu/archives/) and the [MIT Museum](http://web.mit.edu/museum/) that are scheduled during class periods. In addition, I will call attention to various [Centennial Celebration](http://mit2016.mit.edu/) events and arrange an occasional "field trip" or outing that I think will enhance your appreciation of MIT's history. These extracurricular trips are completely voluntary and will have absolutely no bearing on your grade.
 
 Grading
 -------

@@ -5,6 +5,8 @@ description: Worksheet for a class visit to the MIT Institute Archives and Speci
 file: /courses/sts-050-the-history-of-mit-spring-2016/8bff8e8c5300a08f8043710181a923a2_MITSTS_050S16_ArchivesGrid.pdf
 file_size: 46505
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

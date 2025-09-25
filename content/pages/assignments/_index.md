@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides details on the course assignments, class participation,
   and workshops.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,11 +46,11 @@ Project Assignments
 
 {{% resource_link 2558c0e7-6169-0752-7e54-8b43d1a9338e "Document Report" %}}
 
-This may be a unique writing exercise for you. On the surface, it is very simple: Pick a single document from the {{% resource_link "0302076d-d191-4f95-9df8-b0dece56615e" "Institute Archives" %}} that relates to some aspect of MIT history from 1861 to 1906 that interests you. About two pages of this report will be formulaic, meaning you will be asked to answer a set of questions about your chosen document or artifact. You will need to generate another page of sources—books, articles, websites, videos—that relate to your document or artifact. Finally, you will write a one-page essay that tells an important story about MIT through the lens of your document or artifact.
+This may be a unique writing exercise for you. On the surface, it is very simple: Pick a single document from the [Institute Archives](https://libraries.mit.edu/archives/) that relates to some aspect of MIT history from 1861 to 1906 that interests you. About two pages of this report will be formulaic, meaning you will be asked to answer a set of questions about your chosen document or artifact. You will need to generate another page of sources—books, articles, websites, videos—that relate to your document or artifact. Finally, you will write a one-page essay that tells an important story about MIT through the lens of your document or artifact.
 
 {{% resource_link b97ae073-fe7f-a976-70c6-991f8b75037a "Artifact / Plan Report" %}}
 
-Like the document report, you will be asked to identify a single artifact or architectural plan from the {{% resource_link "0a05a909-5344-4753-9ad2-3c08b38cd38c" "MIT Museum" %}} collection. These materials will relate to the period 1906 to 1920. Like the document report, you will have a series of questions to answer, a list of sources and a one-page essay.
+Like the document report, you will be asked to identify a single artifact or architectural plan from the [MIT Museum](http://mitmuseum.mit.edu/explore/collections) collection. These materials will relate to the period 1906 to 1920. Like the document report, you will have a series of questions to answer, a list of sources and a one-page essay.
 
 {{% resource_link d853c143-c3a5-71b7-6453-5282dcc9b8ce "Final Project" %}}
 
