@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: https://thetech.com/issues/80/25/pdf
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: '*The Tech*, May 24, 1960. (PDF)'
+uid: 592ead75-bf09-47ea-a9d8-1e68b90eec30
+wayback_url: ''
+---
